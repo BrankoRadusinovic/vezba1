@@ -1,2 +1,2 @@
-# vezba1
+# OS vezba 1
 Nasa prva vezba
